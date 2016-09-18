@@ -1,0 +1,21 @@
+.cardLayout{
+	width: 25%;
+	display: inline-block;
+	box-sizing: border-box;
+	padding: 15px 10px;
+}
+
+.cardContent{
+	    background: #fff;
+    text-align: center;
+    padding: 5px;
+    font-size: 16px;
+}
+
+.card{
+	padding:10px 0;
+}
+
+.cardContent a:visited{
+	color: #000
+}

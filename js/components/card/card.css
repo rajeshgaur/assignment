@@ -1,0 +1,21 @@
+.contentWrapper{
+	height: calc(100% - 70px);
+    padding: 50px;
+    overflow: auto;
+}
+
+.card .image img{
+	width:100%;
+}
+.content.simpalcard{
+	display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+/*@media screen and (max-width: 600px) {
+	.contentWrapper{
+	display:none;
+	}
+}*/
+

@@ -1,0 +1,9 @@
+	.app-main{
+	max-width: 1024px;
+    margin: 0 auto;
+    background: #eee;
+    height: 100%;
+    -webkit-box-shadow: 0 9px 0 0 #ddd,0 -9px 0 0 #ddd,0 0 15px -4px rgba(0,0,0,.1);
+    -moz-box-shadow: 0 9px 0 0 #ddd,0 -9px 0 0 #ddd,0 0 15px -4px rgba(0,0,0,.1);
+    box-shadow: 0 9px 0 0 #ddd,0 -9px 0 0 #ddd,0 0 15px -4px rgba(0,0,0,.1);
+}
